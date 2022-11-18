@@ -14,3 +14,7 @@
 
 ## Вывод
 `MultilayerPerceptron` и `RandomForest` показали наилучшие результаты.
+
+Best Score на тесте: `0.79186`
+
+Проект, также размещен на [Kaggle](https://www.kaggle.com/code/shazy021/predicting-titanic-with-apache-spark-rus)
